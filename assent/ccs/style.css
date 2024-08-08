@@ -1,0 +1,78 @@
+* { padding: 0;
+    margin: 0;
+    }
+    
+    
+    #presentacion {
+        font-family: Raleway;
+        background: #000000;
+        padding-top: 10%;
+        text-align: center;
+        color: antiquewhite;
+    }
+    
+    .A {
+        color: antiquewhite;
+        background: #000000;
+        display: inline-flex;
+    text-size-adjust: 12px;;
+        font-size: medium;
+        padding-top: 15px;
+        padding-bottom: 10%;
+        padding-left: 05%;
+    
+    }
+    
+    .fa-solid {
+        margin: 25px;
+        background-color: rgb(13, 169, 169);
+        font-size: x-large;
+        padding: 5px 150px;
+    }
+    
+    .text {
+        font-family: Raleway;
+        text-align: center;
+        background: #000000;
+        color: antiquewhite;
+        padding-bottom: 20px;
+    }
+    
+    .row {
+        padding-left: 05%;
+        padding-top: 25px;
+        display: inline-block;
+        background: #000000;
+    }
+    
+    .B {
+        font-family: Raleway;
+    
+        color: antiquewhite;
+        background: #000000;
+        padding-bottom: 20px;
+        padding-left: 05%;
+        padding-right: 05%;
+    
+    }
+    
+    .h1 {
+        padding-top: 10%;
+        text-align: center;
+    }
+    
+    
+    .C {
+        font-family: Raleway;
+        padding-top: 10px;
+        text-align: center;
+        color: antiquewhite;
+        background: rgb(13, 169, 169);
+        size: 100px;
+    }
+    
+    .fa-brands {
+        font-size: 30px;
+        margin: 5px;
+        margin-bottom: 20px;
+    }
